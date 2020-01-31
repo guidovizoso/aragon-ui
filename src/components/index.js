@@ -70,6 +70,7 @@ export { default as Tabs } from './Tabs/Tabs'
 export { default as TextCopy } from './TextCopy/TextCopy'
 export { default as TextInput } from './Input/TextInput'
 export { default as Timer } from './Timer/Timer'
+export { default as Toggle } from './Toggle/Toggle'
 export { default as TokenBadge } from './TokenBadge/TokenBadge'
 export {
   default as TransactionBadge,
